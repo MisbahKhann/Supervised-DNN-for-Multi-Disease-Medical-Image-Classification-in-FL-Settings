@@ -1,0 +1,1 @@
+# Supervised-DNN-for-Multi-Disease-Medical-Image-Classification-in-FL-Settings
